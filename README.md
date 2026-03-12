@@ -1,6 +1,6 @@
 # Auto Switch USB Devices with Logitech Flow
 
-Automatically moves a **USB keyboard shared through VirtualHere** to the currently active Windows PC by watching **Logitech Flow mouse movement**.
+Automatically moves a **USB device shared through VirtualHere** to the currently active Windows PC by watching **Logitech Flow mouse movement**.
 
 This was built for a two-PC setup where:
 
