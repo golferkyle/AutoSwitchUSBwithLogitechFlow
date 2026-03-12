@@ -6,7 +6,7 @@ This was built for a two-PC setup where:
 
 - the **left PC** hands off when the cursor reaches its **right edge**
 - the **right PC** hands off when the cursor reaches its **left edge**
-- the keyboard is plugged into a **VirtualHere USB server**
+- the device is plugged into a **VirtualHere USB server**
 - both PCs run the **VirtualHere Windows client**
 
 In this repo, the target device example is:
